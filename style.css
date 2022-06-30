@@ -33,7 +33,7 @@ section{
      align-items: center;
 }
 p{
-    
+    color : #7c8798;
     font-size: 15px;
     font-weight: 100;
 }
@@ -79,4 +79,17 @@ ul{
     padding: 15px;
     border: none;
     border-radius: 25px;
+}
+.newclass{
+    color : #fb7413;
+    width :12rem;
+    height : 1.7rem;
+    margin-left :20% ;
+    background-color : #7c879825 ;
+    border-radius : 5rem ;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
