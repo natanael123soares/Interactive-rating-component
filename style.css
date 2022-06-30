@@ -38,6 +38,7 @@ p{
     font-weight: 100;
 }
 ul{
+    position: relative;
     padding: 0px 0px  15px 0px;
     box-sizing: border-box;
     list-style-type: none;
@@ -59,8 +60,7 @@ ul{
 
 .avaliação:hover{ 
     background-color: #959eac ;
-    height: 60px;
-    width: 55px; 
+    transform: scale(1.3);
     
 
 }
@@ -72,7 +72,7 @@ ul{
     background-color:  #ffffff;
 }
 .botao{
-   
+    
     background-color:  #fb7413;
     width: 100%;
     height: 30%;
